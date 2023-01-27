@@ -1,6 +1,6 @@
 body {
-    background-color : hsl(220, 15%, 55%);
-    height : 100vh ;
+    background-color : hsl(212, 45%, 89%);
+    min-height : 100vh ;
     display : flex;
     justify-content : center;
     align-items : center;
@@ -9,11 +9,11 @@ body {
     
 }
 
-div {
+main {
     border-radius : 15px; 
     background-color : hsl(0, 0%, 100%); 
-    width: 20%; 
-    height: 470px ;
+    width: 280px; 
+    
     padding : 15px;
     
 }
@@ -21,6 +21,7 @@ div {
 h2 {
    font-family: 'Outfit', sans-serif; 
    text-align : center;
+   
 
 }
 
